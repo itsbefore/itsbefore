@@ -4,10 +4,10 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=itsbefore&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/YourUsername/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbefore&layout=compact)](https://github.com/YourUsername/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=itsbefore&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/itsbefore/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbefore&layout=compact)](https://github.com/itsbefore/github-readme-stats)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbefore&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsbefore&theme=github-dark-dimmed)](https://github.com/itsbefore/github-readme-activity-graph)
 
 
 
